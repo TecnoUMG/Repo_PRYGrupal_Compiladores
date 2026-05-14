@@ -1,0 +1,4 @@
+# Librerías externas necesarias:
+
+# 1. Para validación de estructuras JSON (diccionarios EN/ES)
+jsonschema==4.23.0
